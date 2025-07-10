@@ -177,7 +177,7 @@ def create_raw_email_with_attachment(source_email, dest_emails, excel_data, unve
     ***This is an auto generated Email. Do not reply to this email.***
 
     Best regards,
-    NTT Data INC.
+    Santosh Kumar.
     """
 
     # Add body to the email
@@ -213,7 +213,7 @@ def create_raw_email_no_ami_found(source_email, dest_emails, unverified_emails):
     ***This is an auto generated Email. Do not reply to this email.***
 
     Best regards,
-    NTT Data INC.
+    Santosh Kumar
     """
 
     # Add body to the email
